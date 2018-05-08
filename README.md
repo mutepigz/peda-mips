@@ -22,26 +22,6 @@ CHANGED BY https://github.com/alset0326/peda-arm
 * Support both remote and local debug
 * And so many features that I don't remember
 
-## Screenshot
-
-![](https://cloud.githubusercontent.com/assets/16704510/23940225/0da3d678-099f-11e7-9625-a48e3d3cc2ff.png)
-
----
-
-![](https://cloud.githubusercontent.com/assets/16704510/23940248/1ed125cc-099f-11e7-9c58-547078536ad1.png)
-
----
-
-![](https://cloud.githubusercontent.com/assets/16704510/23940259/244e7950-099f-11e7-9c1f-ef43891b92cc.png)
-
----
-
-![](https://cloud.githubusercontent.com/assets/16704510/23940267/2e246534-099f-11e7-8321-9031e8499ed1.png)
-
----
-
-![](https://cloud.githubusercontent.com/assets/16704510/23940278/38fc846e-099f-11e7-8588-547f29c354f6.png)
-
 ## Installation
 
 ```
