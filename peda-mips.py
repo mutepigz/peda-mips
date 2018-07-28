@@ -6506,7 +6506,7 @@ peda.execute("handle SIGSEGV stop print nopass")  # catch SIGSEGV
 peda.execute('set pagination off')  # disable paging
 info('registering commands.')
 msg('')
-
+'''
 if zlib:
     with open(os.path.dirname(PEDAFILE) + '/lib/logos', 'rb') as f:
         logos = pickle_loads(zlib.decompress(f.read()))
@@ -6514,5 +6514,6 @@ if zlib:
     msg('alset'.rjust(random.randint(10, len(logos) + 10)), 'red')
     msg('')
 else:
-    msg('PEDA-MIPS alset-0.3'.rjust(random.randint(10, 50)), 'red')
-    msg('')
+'''
+msg('PEDA-MIPS mutepig'.rjust(random.randint(10, 50)), 'red')
+msg('')
